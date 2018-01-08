@@ -23,5 +23,5 @@ sayHiToGrandma("HELLO");
 sayHiToGrandma("I love you, Grandma.");
 
 function sayHiToGrandma(string) {
-  return string.toEqual("I can't hear you!")
+  return string("I can't hear you!")
 }
