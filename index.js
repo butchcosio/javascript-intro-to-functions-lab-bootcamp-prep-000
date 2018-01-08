@@ -19,6 +19,7 @@ function sayHiToGrandma(string){
 
 sayHiToGrandma("hello");
 sayHiToGrandma("HELLO");
-+sayHiToGrandma("I love you, Grandma.");function sayHiToGrandma(string) {
+sayHiToGrandma("I love you, Grandma.");
+function sayHiToGrandma(string) {
   return string.toEqual("I can't hear you!")
 }
