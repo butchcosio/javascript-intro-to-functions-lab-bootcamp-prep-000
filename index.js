@@ -18,10 +18,3 @@ function sayHiToGrandma(string){
  else if (string === string.toUpperCase()) return "YES INDEED!";
 }
 
-sayHiToGrandma("hello");
-sayHiToGrandma("HELLO");
-sayHiToGrandma("I love you, Grandma.");
-
-function sayHiToGrandma(string) {
-  return string("I can't hear you!")
-}
